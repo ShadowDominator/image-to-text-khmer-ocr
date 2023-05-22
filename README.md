@@ -6,7 +6,7 @@ This is a code repository for an English+Khmer OCR (Optical Character Recognitio
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/ShadowDominator/image-to-text-khmer-ocr.git
     ```
 2. Install the required packages:
 ```shell
