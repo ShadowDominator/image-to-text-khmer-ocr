@@ -1,6 +1,7 @@
 # English+Khmer OCR
 
-This is a code repository for an English+Khmer OCR (Optical Character Recognition) application. The application uses the Tesseract OCR engine and PIL (Python Imaging Library) to extract text from images containing both English and Khmer characters.
+This is a code repository for an English+Khmer OCR (Optical Character Recognition) application. The application uses the Tesseract OCR engine and PIL (Python Imaging Library) to extract text from images containing both English and Khmer characters.[Demo](https://huggingface.co/spaces/ShadowDominator/image-to-text-khmer-ocr)
+
 
 ## Installation
 
