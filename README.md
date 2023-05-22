@@ -6,4 +6,4 @@ Image to text Khmer, using tesseract-ocr and UI Gradio
 https://tesseract-ocr.github.io/tessdoc/Installation.html
 
 # python lib installation
-pip gradio pytesseract
+pip gradio pytesseract or pip install -r requirements.txt
